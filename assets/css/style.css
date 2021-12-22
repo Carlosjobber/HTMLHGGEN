@@ -1,0 +1,15 @@
+body{
+    background-color: blueviolet;
+}
+.formulario{
+    border: 1px solid purple;
+}
+
+.clase_nombre{
+    border: 2px solid greenyellow;
+    border-radius: 25px;
+}
+
+#password{
+    border-radius: 20px;
+}
