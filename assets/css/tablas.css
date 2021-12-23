@@ -1,0 +1,19 @@
+table, tr ,th, td {
+
+    border: 1px solid black;
+}
+
+td{
+
+    background-color: blue;
+}
+
+th{
+    background-color: blueviolet;
+}
+
+table{
+    background-color: yellow;
+}
+
+

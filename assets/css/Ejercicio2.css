@@ -1,0 +1,23 @@
+body{
+    background-color:turquoise
+}
+
+table, tr ,th, td {
+
+    border: 1px solid black;
+}
+
+td{
+
+    background-color: white;
+}
+
+
+
+table{
+    background-color:white;
+}
+
+thead{
+    background-color: white;
+}

@@ -1,11 +1,12 @@
 body{
     background-image:url(https://media.revistagq.com/photos/60a50a94a845decdd92aef5b/4:3/w_3556,h_2667,c_limit/Zara%20GettyImages-1231610299.jpg);
+    background-size: 1500px ;
    
 }
 
 .formulario{
     background-color: white;
-    border-radius: 25px;
+    border-radius: 20px;
     padding-top: 50px;
     padding-left: 50px;
     padding-right: 50px;
@@ -162,4 +163,12 @@ input[type="file"] {
     width: 100px;
     align-content: center;
     
+}
+
+.prueba::placeholder{
+
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
 }
